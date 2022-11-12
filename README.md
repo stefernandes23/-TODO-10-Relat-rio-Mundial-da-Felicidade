@@ -23,3 +23,5 @@ Entretanto, um dos requisitos da conferência é que a apresentação tenha dive
 **Link do relatório:** [Kaggle](https://www.kaggle.com/datasets/mathurinache/world-happiness-report?select=2022.csv)
 
 **Link da apresentação:** [Canva](https://www.canva.com/design/DAFRr4Pz1s8/-34bUYWNew_iDNIE38pc-A/view?utm_content=DAFRr4Pz1s8&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+
+**Link dos gráficos:** [Tableau](https://public.tableau.com/views/MapaCoropltico-ToDo10/Ummapacoropltico?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
